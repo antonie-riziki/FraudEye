@@ -15,7 +15,7 @@ google-generativeai
 streamlit-folium
 streamlit-audiorec
 folium
-st_social_media_links
+st-social-media-links
 bcrypt
 captcha
 subprocess
