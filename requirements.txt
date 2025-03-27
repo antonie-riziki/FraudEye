@@ -18,4 +18,4 @@ folium
 st-social-media-links
 bcrypt
 captcha
-subprocess
+holehe
