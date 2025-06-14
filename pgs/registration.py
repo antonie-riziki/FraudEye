@@ -118,6 +118,6 @@ with col2:
 	# reg_lottie = load_lottieurl("https://lottie.host/701a9d68-8f75-41a1-8c96-3e4b026a3d3f/zeKp8UyfVz.json")
 	# st_lottie(reg_lottie)
 	st.image('./assets/1730921305636.jpg', width=700)
-	st.image('./assets/1731707329357.jpg', width=700)
+	st.image('./assets/1731707329357.png', width=700)
 	# st.image('./src/pngtree-global-outreach-write-on-notebook-guide-community-relationship-photo-image_21230704.jpg', width=800)
 	# st.image('./src/community-outreach.jpg', width=900)
